@@ -1,0 +1,30 @@
+.Support{
+    font-size: larger;
+    color: #f64c08;
+    background-color: black;
+    text-align: center;
+
+}
+
+
+.Support__container{
+    
+    background-position: center;
+    background: url(../../asset/close-up-view-legs-farmer-working-with-fresh-grass-animal-barn.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 160vh;
+  z-index: 2;
+    color: rgb(1, 1, 41);
+    font: bold ;
+    text-align: center;
+    font-family:  sans-serif; 
+    letter-spacing: 1px;
+    padding: 20px 0;
+   font-size: xx-large;
+   font-weight: 300;
+    flex-direction: column;
+}
+
+  
+ 

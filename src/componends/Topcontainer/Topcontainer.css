@@ -1,0 +1,9 @@
+.topcontainer{
+    background: url(../../asset/leon-ephraim-AxoNnnH1Y98-unsplash\ \(1\).jpg);
+ background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 140vh;
+  box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5);
+  z-index: 2;
+}
