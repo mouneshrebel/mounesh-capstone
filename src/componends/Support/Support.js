@@ -28,7 +28,7 @@ const Support = () => {
 
 
    </Element>
-  )
-}
+  );
+};
 
-export default Support
+export default Support ;
